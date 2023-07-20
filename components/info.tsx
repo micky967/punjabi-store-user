@@ -50,3 +50,6 @@ const Info: React.FC<InfoProps> = ({ data }) => {
 }
  
 export default Info;
+
+
+// added cart to shopping basket 
